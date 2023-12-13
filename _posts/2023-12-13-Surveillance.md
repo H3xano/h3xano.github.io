@@ -9,9 +9,9 @@ tags: [htb, hacking, hack the box, writeup]     # TAG names should always be low
 
 ## HTB - Surveillance
 
-## Overview
-
 ![Descriptive information card about Surveillance](/assets/img/surveillance-infocard.png)
+
+## Overview
 
 The target machine, named "Surveillance", is a medium difficulty Linux machine. It involves multiple steps for compromise. It begins with establishing a foothold as the www-data user, followed by privilege escalation through the Matthew user. The final escalation results in root access via the Zoneminder user.
 
