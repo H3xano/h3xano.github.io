@@ -6,14 +6,14 @@ date: 2023-12-13 00:00:00 -0000
 categories: [Hack the Box, Writeup]
 tags: [htb, hacking, hack the box, writeup]     # TAG names should always be lowercase
 show_image_post: true
-image: /assets/img/surveillance-infocard.webp
+image: /assets/img/surveillance-badge.png
 ---
 
 ## HTB - Surveillance
 
 ## Overview
 
-![Descriptive information card about Surveillance](/assets/img/surveillance-infocard.webp)
+![Descriptive information card about Surveillance](/assets/img/surveillance-infocard.png)
 
 The target machine, named "Surveillance", is a medium difficulty Linux machine. It involves multiple steps for compromise. It begins with establishing a foothold as the www-data user, followed by privilege escalation through the Matthew user. The final escalation results in root access via the Zoneminder user.
 
