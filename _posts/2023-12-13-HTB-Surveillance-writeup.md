@@ -1,8 +1,8 @@
 ---
-title: [HTB] Surveillance writeup
+title: HTB Surveillance writeup
 date: 2023-12-13 12:00:00 -000
-cateogries: [Writeup,HTB]
-tags: [Writeup,HTB]
+cateogries: [Writeup, HTB]
+tags: [Writeup, HTB]
 ---
 
 # Hack The Box - Surveillance
