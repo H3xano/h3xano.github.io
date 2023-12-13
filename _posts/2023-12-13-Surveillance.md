@@ -5,7 +5,6 @@ title: Hack the Box - Surveillance Writeup
 date: 2023-12-13 00:00:00 -0000
 categories: [Hack the Box, Writeup]
 tags: [htb, hacking, hack the box, writeup]     # TAG names should always be lowercase
-show_image_post: true
 image: /assets/img/surveillance-badge.png
 ---
 
